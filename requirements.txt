@@ -1,0 +1,13 @@
+python-dotenv
+langchain
+openai
+chainlit
+streamlit
+numexpr
+wikipedia
+google-api-python-client>=2.100.0
+networkx
+stackapi
+bs4
+langchain-google-genai
+pillow
